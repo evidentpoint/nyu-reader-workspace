@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "nyu-reader"
+		},
+		{
+			"path": "r2-navigator-web"
+		},
+		{
+			"path": "r2-glue-js"
+		},
+		{
+			"path": "r2-shared-js"
+		},
+		{
+			"path": "r2-utils-js"
+		}
+	],
+	"settings": {}
+}
