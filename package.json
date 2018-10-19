@@ -16,6 +16,7 @@
     "build:r2-utils-js": "cd r2-utils-js && npm run build:es5",
     "build:r2-lcp-js": "cd r2-lcp-js && npm run build:es5",
     "build:r2-shared-js": "cd r2-shared-js && npm run build:es5",
+    "build:r2-glue-js": "cd r2-glue-js && npm run build",
     "build:r2-navigator-web": "cd r2-navigator-web && npm run build",
     "build:nyu-reader": "cd nyu-reader && npm run build",
     "clone:r2-utils-js": "[ ! -d r2-utils-js ] && git clone git@github.com:evidentpoint/r2-utils-js.git || :",
